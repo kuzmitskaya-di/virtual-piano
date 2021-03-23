@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/virtual-piano/static/css/main.0c061938.chunk.css",
+    "main.js": "/virtual-piano/static/js/main.8d18fc86.chunk.js",
+    "main.js.map": "/virtual-piano/static/js/main.8d18fc86.chunk.js.map",
+    "runtime-main.js": "/virtual-piano/static/js/runtime-main.3da7e2aa.js",
+    "runtime-main.js.map": "/virtual-piano/static/js/runtime-main.3da7e2aa.js.map",
+    "static/js/2.c6cbc7f5.chunk.js": "/virtual-piano/static/js/2.c6cbc7f5.chunk.js",
+    "static/js/2.c6cbc7f5.chunk.js.map": "/virtual-piano/static/js/2.c6cbc7f5.chunk.js.map",
+    "static/js/3.4ef0d7f7.chunk.js": "/virtual-piano/static/js/3.4ef0d7f7.chunk.js",
+    "static/js/3.4ef0d7f7.chunk.js.map": "/virtual-piano/static/js/3.4ef0d7f7.chunk.js.map",
+    "index.html": "/virtual-piano/index.html",
+    "static/css/main.0c061938.chunk.css.map": "/virtual-piano/static/css/main.0c061938.chunk.css.map",
+    "static/js/2.c6cbc7f5.chunk.js.LICENSE.txt": "/virtual-piano/static/js/2.c6cbc7f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3da7e2aa.js",
+    "static/js/2.c6cbc7f5.chunk.js",
+    "static/css/main.0c061938.chunk.css",
+    "static/js/main.8d18fc86.chunk.js"
+  ]
+}
